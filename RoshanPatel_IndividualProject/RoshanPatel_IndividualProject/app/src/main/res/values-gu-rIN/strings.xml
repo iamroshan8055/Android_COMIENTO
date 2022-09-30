@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RoshanPatel_IndividualProject</string>
+    <string name="logo_name">Comiento</string>
+    <string name="cuis_ind">ભારતીય</string>
+    <string name="cuis_ita">ઇટાલિયન</string>
+    <string name="cuis_sea">સમુદ્ર ખોરાક</string>
+    <string name="cuis_fas">ફાસ્ટ ફૂડ</string>
+    <string name="go_pay_btn">ખરીદવા માટે જાઓ</string>
+    <string name="order_btn">ઓર્ડર આપો</string>
+
+</resources>

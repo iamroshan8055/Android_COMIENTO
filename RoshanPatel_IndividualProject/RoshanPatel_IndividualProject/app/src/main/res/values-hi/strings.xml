@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">रोशनपटेल_व्यक्तिगत परियोजना</string>
+    <string name="logo_name">कॉमिएंतो</string>
+    <string name="cuis_ind">भारतीय</string>
+    <string name="cuis_ita">इटैलियन</string>
+    <string name="cuis_sea">समुद्री भोजन</string>
+    <string name="cuis_fas">फ़ास्ट फ़ूड</string>
+    <string name="go_pay_btn">खरीदने के लिए जाएं</string>
+    <string name="order_btn">ऑर्डर दें</string>
+</resources>

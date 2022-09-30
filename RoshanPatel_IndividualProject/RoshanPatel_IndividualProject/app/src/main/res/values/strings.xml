@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RoshanPatel_IndividualProject</string>
+    <string name="logo_name">Comiento</string>
+    <string name="cuis_ind">Indian</string>
+    <string name="cuis_ita">Italian</string>
+    <string name="cuis_sea">Sea Food</string>
+    <string name="cuis_fas">Fast Food</string>
+    <string name="go_pay_btn">Go to checkout</string>
+    <string name="order_btn">Place Order</string>
+
+</resources>
